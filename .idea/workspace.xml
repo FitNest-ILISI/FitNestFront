@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c91581b-34aa-4eba-bfba-ba7f8373bbac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FitNest" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +40,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:FitNest-ILISI/FitNestFront.git&quot;,
-    &quot;accountId&quot;: &quot;78a0428a-69fa-40f2-a0f5-9ba22b16a2f4&quot;
+    &quot;url&quot;: &quot;git@github.com:FitNest-ILISI/Front.git&quot;,
+    &quot;accountId&quot;: &quot;1b1ff621-8510-4a9b-a3e5-b13c0c0c42f0&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -64,11 +63,10 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/minou/AndroidStudioProjects/FitNest&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/minou/AndroidStudioProjects/FitNest1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
