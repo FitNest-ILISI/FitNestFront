@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c91581b-34aa-4eba-bfba-ba7f8373bbac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/controllers/signup/date_of_birth_controller.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/controllers/signup/interests_controller.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/controllers/signup/looking_for_controller.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/functions/step_content.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/functions/step_indicator.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FitNest/lib/utils/constants/icons.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FitNest" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/common/widgets/buttons/square_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/common/widgets/buttons/square_button.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/features/authentication/controllers/additional_infos/additional_infos_form_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/controllers/signup/additional_infos_form_controller.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/features/authentication/controllers/signup/confirm_identity_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/controllers/signup/confirm_identity_controller.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/features/authentication/controllers/signup/signup_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/controllers/signup/signup_controller.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/additional_infos/additional_infos_form.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/widgets/additional_infos_form.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/additional_infos/widgets/date_of_birth_gender_form.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/widgets/date_of_birth_gender.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/additional_infos/widgets/interests_form.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/widgets/interests.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/additional_infos/widgets/looking_for_form.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/widgets/looking_for_form.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/signup.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/signup.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/widgets/confirm_identity_form.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/widgets/confirm_identity.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/widgets/signup_form.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/features/authentication/screens/signup/widgets/signup_form.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/features/maps/screens/event_details_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/features/maps/screens/event_details_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/utils/constants/sizes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/utils/constants/sizes.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FitNest/lib/utils/constants/text_strings.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FitNest/lib/utils/constants/text_strings.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,36 +25,54 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_COMMON_BRANCH" value="main" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FitNest" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;marm369&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:FitNest-ILISI/FitNestFront.git&quot;,
+    &quot;accountId&quot;: &quot;78a0428a-69fa-40f2-a0f5-9ba22b16a2f4&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2oGXZCVjSMRUu3GrKv6knyw9Ruw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Flutter.main.dart.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "minouarl",
-    "io.flutter.reload.alreadyRun": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/flutter/src/flutter/bin/cache/dart-sdk",
-    "settings.editor.selected.configurable": "dart.settings",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main1&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/minou/AndroidStudioProjects/FitNest&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\minou\AndroidStudioProjects\FitNest\FitNest\lib\features\authentication\screens\signup\functions" />
@@ -104,5 +101,11 @@
       <updated>1730496942253</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/FitNest" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
 </project>
